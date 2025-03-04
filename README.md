@@ -127,7 +127,6 @@ The folder structure for this repository is as follows:
 └── requirements.txt            # List of dependencies
 ```
 
----
 
 ---
 
